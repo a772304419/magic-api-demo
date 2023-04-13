@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "84cc0c763de9459d8ccca2185c652e78",
+  "name" : "test1",
+  "type" : "api",
+  "parentId" : "0",
+  "path" : "test1",
+  "createTime" : 1681395095765,
+  "updateTime" : null,
+  "createBy" : null,
+  "updateBy" : null,
+  "paths" : [ ],
+  "options" : [ ]
+}

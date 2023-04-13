@@ -1,0 +1,14 @@
+server:
+  port: 9999
+
+magic-api:
+  web: /magic/web
+  resource:
+    location: ./data/magic-api
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/magic-api-demo?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: 123456
